@@ -119,6 +119,3 @@ HTTP库：使用 OpenFeign HTTP库，该库提供了方便的 HTTP 请求和响�
 
 ![Image text](https://gitee.com/lwdillon/dillon-boot-fx/raw/main/readme/moint-light.jpg)
 
-
-## 交流群
-## QQ群：114697782 QQ2群：808309284 QQ群：518914410
